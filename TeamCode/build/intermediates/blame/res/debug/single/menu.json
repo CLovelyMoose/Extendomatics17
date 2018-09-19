@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "C:\\Users\\colin\\Desktop\\Extendomatics17\\TeamCode\\build\\intermediates\\res\\merged\\debug\\menu\\main_menu.xml",
+        "source": "C:\\Users\\colin\\.android\\build-cache\\7e3895750511e883f8e18e253111350ec8fb18e0\\output\\res\\menu\\main_menu.xml"
+    },
+    {
+        "merged": "C:\\Users\\colin\\Desktop\\Extendomatics17\\TeamCode\\build\\intermediates\\res\\merged\\debug\\menu\\ftc_robot_controller.xml",
+        "source": "C:\\Users\\colin\\Desktop\\Extendomatics17\\FtcRobotController\\build\\intermediates\\bundles\\default\\res\\menu\\ftc_robot_controller.xml"
+    },
+    {
+        "merged": "C:\\Users\\colin\\Desktop\\Extendomatics17\\TeamCode\\build\\intermediates\\res\\merged\\debug\\menu\\menu_server.xml",
+        "source": "C:\\Users\\colin\\.android\\build-cache\\25cf33914bfe04d82e3904c0d5e8f285f97b5098\\output\\res\\menu\\menu_server.xml"
+    }
+]
